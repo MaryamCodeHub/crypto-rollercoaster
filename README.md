@@ -39,12 +39,12 @@ plotly         # Interactive visualizations
 numpy          # Numerical operations 
 ```
 
-### Visualization Tools
-# Plotly: Interactive time-series charts
-# Seaborn: Correlation heatmaps and statistical plots
-# Matplotlib: Custom annotations and styling
+## Visualization Tools
+#### Plotly: Interactive time-series charts
+#### Seaborn: Correlation heatmaps and statistical plots
+#### Matplotlib: Custom annotations and styling
 
-### 📅 Peak Events
+## 📅 Peak Events
 - **Peak Search Interest**: 100/100 (May 16, 2021) - Coincided with Elon Musk's Tesla announcements
 
 - **Peak Bitcoin Price**: $68,789 (November 14, 2021) - During Bitcoin's all-time high rally
@@ -79,12 +79,12 @@ Contributions are welcome! Please feel free to:
 - Open a Pull Request
 
 🙋‍♂️ Author
-Maryam Naseem
-GitHub: @MaryamCodeHub
-LinkedIn: [MaryamNaseem](https://www.linkedin.com/in/maryam--naseem)
+- Maryam Naseem
+- GitHub: @MaryamCodeHub
+- LinkedIn: [MaryamNaseem](https://www.linkedin.com/in/maryam--naseem)
 
-🎓 Learning Outcomes
-This project demonstrates:
+## 🎓 Learning Outcomes
+- **This project demonstrates** :
 Advanced data visualization techniques
 ,Time series analysis
 ,Statistical correlation analysis
